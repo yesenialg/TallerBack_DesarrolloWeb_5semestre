@@ -68,7 +68,7 @@ async function crearEmail(email) {
 <b>Le informamos que ha sido registrado correctamente en nuestro sistema</b> 
   <br>
   <br>
-  <pr>Ahora podrá disfrutar de todos los beneficios que tiene la Universidad para tí</pr>
+  <pr>Ahora podrás disfrutar de todos los beneficios que tiene la Universidad para tí</pr>
   <h3>¡NO TE PIERDAS DE NADA!</h3>
 </center>
 </body>`,
