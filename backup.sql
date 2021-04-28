@@ -1,5 +1,7 @@
 SCRIPT BASE DE DATOS
 
+create database universidad;
+
 CREATE TABLE public.personas (
 	id serial NOT NULL,
 	"name" varchar NOT NULL,
